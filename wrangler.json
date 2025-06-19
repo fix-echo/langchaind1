@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "langchaind1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4a03eaaf-9e2d-4597-807b-626f73d7cee7",
+      "database_name": "langchaind1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
